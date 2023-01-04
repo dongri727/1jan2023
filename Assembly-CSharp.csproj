@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Manager.cs" />
+    <Compile Include="Assets/FPSController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
