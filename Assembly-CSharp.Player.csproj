@@ -56,9 +56,10 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/MovementController.cs" />
-    <Compile Include="Assets/FPSController.cs" />
-    <Compile Include="Assets/Manager.cs" />
+    <Compile Include="Assets/Scripts/MovementController.cs" />
+    <Compile Include="Assets/Scripts/FPSController.cs" />
+    <Compile Include="Assets/Scripts/Manager.cs" />
+    <Compile Include="Assets/Scripts/GetObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

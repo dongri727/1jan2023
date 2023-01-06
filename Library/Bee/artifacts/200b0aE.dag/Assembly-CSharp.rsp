@@ -355,9 +355,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/FPSController.cs"
-"Assets/Manager.cs"
-"Assets/MovementController.cs"
+"Assets/Scripts/FPSController.cs"
+"Assets/Scripts/GetObject.cs"
+"Assets/Scripts/Manager.cs"
+"Assets/Scripts/MovementController.cs"
 -langversion:9.0
 
 /deterministic

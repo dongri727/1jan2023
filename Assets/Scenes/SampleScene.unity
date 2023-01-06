@@ -319,6 +319,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -392,6 +393,19 @@ Transform:
   m_Father: {fileID: 1736774454}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a69443e8ff8d64bf0b09fb350546bb6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  camera: {fileID: 963194227}
 --- !u!1001 &1365438024
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -465,8 +479,8 @@ GameObject:
   - component: {fileID: 1736774453}
   - component: {fileID: 1736774452}
   - component: {fileID: 1736774451}
-  - component: {fileID: 1736774450}
   - component: {fileID: 1736774455}
+  - component: {fileID: 1736774456}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -474,19 +488,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1736774450
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1736774449}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0ed5d1d99a5148a0a3683d22303fa4d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cam: {fileID: 963194225}
 --- !u!136 &1736774451
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -583,3 +584,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1736774456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736774449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198e190e8d7ec471ab422c8c5df13aa3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanMove: 1
+  CanMoveForward: 1
+  CanMoveBack: 1
+  CanMoveLeft: 1
+  CanMoveRight: 1
+  CanMoveUp: 1
+  CanMoveDown: 1
+  CanRotateYaw: 1
+  CanRotatePitch: 1
+  CanRotateRoll: 1
+  MovementSpeed: 100
+  RotationSpeed: 100

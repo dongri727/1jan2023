@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{17CAC5DA-C8F8-C195-8214-325C2A6C8637}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPSController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GetObject.cs">
     <Files>
-      <File FileName="Assets/Manager.cs" Line="28" Column="9" />
-      <File FileName="Assets/FPSController.cs" Line="70" Column="1" />
-      <File FileName="Assets/MovementController.cs" Line="50" Column="20" />
+      <File FileName="Assets/Scripts/GetObject.cs" Line="24" Column="2" />
+      <File FileName="Assets/Scripts/Manager.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="1jan2023" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Manager.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="GetObject.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -19,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e4712a93-1df2-45e0-9249-a1719fac0795" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0076a82d-27b3-41c9-b62a-ec23cb71cf4d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
