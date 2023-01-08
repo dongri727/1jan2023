@@ -1,5 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
+//using System.Collections;
+//using System.Collections.Generic;
 using UnityEngine;
 
 public class GetObject : MonoBehaviour
@@ -18,6 +18,7 @@ public class GetObject : MonoBehaviour
             {
                 string objectName = hit.collider.gameObject.name; //オブジェクト名を取得して変数に入れる
                 Debug.Log(objectName); //オブジェクト名をコンソールに表示
+
             }
         }
     }
