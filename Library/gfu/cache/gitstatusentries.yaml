@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-01-06T13:22:46.668+09:00
-  initializedAtString: 2023-01-06T13:11:56.393+09:00
+  lastUpdatedAtString: 2023-01-09T17:05:52.023+09:00
+  initializedAtString: 2023-01-09T16:40:47.634+09:00
   entries:
   - path: .vs/1jan2023/xs/project-cache/Assembly-CSharp.Player-Debug.json
     fullPath: /Users/laporte/unity/1jan2023/.vs/1jan2023/xs/project-cache/Assembly-CSharp.Player-Debug.json
@@ -46,102 +46,312 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/FPSController.cs
-    fullPath: /Users/laporte/unity/1jan2023/Assets/FPSController.cs
-    projectPath: Assets/FPSController.cs
+  - path: Assets/Planet Earth Free.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free.meta
+    projectPath: Assets/Planet Earth Free.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/FPSController.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/FPSController.cs.meta
-    projectPath: Assets/FPSController.cs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Demo.unity
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Demo.unity
+    projectPath: Assets/Planet Earth Free/Demo.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Manager.cs
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Manager.cs
-    projectPath: Assets/Manager.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Demo.unity.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Demo.unity.meta
+    projectPath: Assets/Planet Earth Free/Demo.unity.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Manager.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Manager.cs.meta
-    projectPath: Assets/Manager.cs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/DemoSettings.lighting
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/DemoSettings.lighting
+    projectPath: Assets/Planet Earth Free/DemoSettings.lighting
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/MovementController.cs
-    fullPath: /Users/laporte/unity/1jan2023/Assets/MovementController.cs
-    projectPath: Assets/MovementController.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/DemoSettings.lighting.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/DemoSettings.lighting.meta
+    projectPath: Assets/Planet Earth Free/DemoSettings.lighting.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/MovementController.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/MovementController.cs.meta
-    projectPath: Assets/MovementController.cs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials.meta
+    projectPath: Assets/Planet Earth Free/Materials.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth1kMaterial.mat
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth1kMaterial.mat
+    projectPath: Assets/Planet Earth Free/Materials/Earth1kMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth1kMaterial.mat.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth1kMaterial.mat.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth1kMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth1kNormal.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth1kNormal.png
+    projectPath: Assets/Planet Earth Free/Materials/Earth1kNormal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth1kNormal.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth1kNormal.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth1kNormal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth1kTexture.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth1kTexture.png
+    projectPath: Assets/Planet Earth Free/Materials/Earth1kTexture.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth1kTexture.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth1kTexture.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth1kTexture.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth2kMaterial.mat
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth2kMaterial.mat
+    projectPath: Assets/Planet Earth Free/Materials/Earth2kMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth2kMaterial.mat.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth2kMaterial.mat.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth2kMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth2kNormal.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth2kNormal.png
+    projectPath: Assets/Planet Earth Free/Materials/Earth2kNormal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth2kNormal.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth2kNormal.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth2kNormal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth2kTexture.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth2kTexture.png
+    projectPath: Assets/Planet Earth Free/Materials/Earth2kTexture.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth2kTexture.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth2kTexture.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth2kTexture.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth4kMaterial.mat
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth4kMaterial.mat
+    projectPath: Assets/Planet Earth Free/Materials/Earth4kMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth4kMaterial.mat.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth4kMaterial.mat.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth4kMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth4kNormal.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth4kNormal.png
+    projectPath: Assets/Planet Earth Free/Materials/Earth4kNormal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth4kNormal.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth4kNormal.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth4kNormal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth4kTexture.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth4kTexture.png
+    projectPath: Assets/Planet Earth Free/Materials/Earth4kTexture.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Earth4kTexture.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Earth4kTexture.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/Earth4kTexture.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Materials.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Materials.meta
+    projectPath: Assets/Planet Earth Free/Materials/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Materials/Earth1kTexture.mat
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Materials/Earth1kTexture.mat
+    projectPath: Assets/Planet Earth Free/Materials/Materials/Earth1kTexture.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/Materials/Earth1kTexture.mat.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/Materials/Earth1kTexture.mat.meta
+    projectPath: Assets/Planet Earth Free/Materials/Materials/Earth1kTexture.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/PlanetGlowMaterial.mat
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/PlanetGlowMaterial.mat
+    projectPath: Assets/Planet Earth Free/Materials/PlanetGlowMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/PlanetGlowMaterial.mat.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/PlanetGlowMaterial.mat.meta
+    projectPath: Assets/Planet Earth Free/Materials/PlanetGlowMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/SkyboxMaterial.mat
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/SkyboxMaterial.mat
+    projectPath: Assets/Planet Earth Free/Materials/SkyboxMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/SkyboxMaterial.mat.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/SkyboxMaterial.mat.meta
+    projectPath: Assets/Planet Earth Free/Materials/SkyboxMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/StarsTexture.png
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/StarsTexture.png
+    projectPath: Assets/Planet Earth Free/Materials/StarsTexture.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Materials/StarsTexture.png.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Materials/StarsTexture.png.meta
+    projectPath: Assets/Planet Earth Free/Materials/StarsTexture.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models.meta
+    projectPath: Assets/Planet Earth Free/Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models/Planet16128Tris.FBX
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models/Planet16128Tris.FBX
+    projectPath: Assets/Planet Earth Free/Models/Planet16128Tris.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models/Planet16128Tris.FBX.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models/Planet16128Tris.FBX.meta
+    projectPath: Assets/Planet Earth Free/Models/Planet16128Tris.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models/Planet3968Tris.FBX
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models/Planet3968Tris.FBX
+    projectPath: Assets/Planet Earth Free/Models/Planet3968Tris.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models/Planet3968Tris.FBX.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models/Planet3968Tris.FBX.meta
+    projectPath: Assets/Planet Earth Free/Models/Planet3968Tris.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models/Planet960Tris.FBX
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models/Planet960Tris.FBX
+    projectPath: Assets/Planet Earth Free/Models/Planet960Tris.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Models/Planet960Tris.FBX.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Models/Planet960Tris.FBX.meta
+    projectPath: Assets/Planet Earth Free/Models/Planet960Tris.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs.meta
+    projectPath: Assets/Planet Earth Free/Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs/EarthHigh.prefab
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs/EarthHigh.prefab
+    projectPath: Assets/Planet Earth Free/Prefabs/EarthHigh.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs/EarthHigh.prefab.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs/EarthHigh.prefab.meta
+    projectPath: Assets/Planet Earth Free/Prefabs/EarthHigh.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs/EarthLow.prefab
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs/EarthLow.prefab
+    projectPath: Assets/Planet Earth Free/Prefabs/EarthLow.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs/EarthLow.prefab.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs/EarthLow.prefab.meta
+    projectPath: Assets/Planet Earth Free/Prefabs/EarthLow.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs/EarthMedium.prefab
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs/EarthMedium.prefab
+    projectPath: Assets/Planet Earth Free/Prefabs/EarthMedium.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/Prefabs/EarthMedium.prefab.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/Prefabs/EarthMedium.prefab.meta
+    projectPath: Assets/Planet Earth Free/Prefabs/EarthMedium.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/SpinFree.cs
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/SpinFree.cs
+    projectPath: Assets/Planet Earth Free/SpinFree.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Planet Earth Free/SpinFree.cs.meta
+    fullPath: /Users/laporte/unity/1jan2023/Assets/Planet Earth Free/SpinFree.cs.meta
+    projectPath: Assets/Planet Earth Free/SpinFree.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets/Scenes/SampleScene.unity
     fullPath: /Users/laporte/unity/1jan2023/Assets/Scenes/SampleScene.unity
     projectPath: Assets/Scenes/SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts.meta
-    projectPath: Assets/Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/FPSController.cs
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/FPSController.cs
-    projectPath: Assets/Scripts/FPSController.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/FPSController.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/FPSController.cs.meta
-    projectPath: Assets/Scripts/FPSController.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/GetObject.cs
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/GetObject.cs
-    projectPath: Assets/Scripts/GetObject.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/GetObject.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/GetObject.cs.meta
-    projectPath: Assets/Scripts/GetObject.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets/Scripts/Manager.cs
     fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/Manager.cs
     projectPath: Assets/Scripts/Manager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Manager.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/Manager.cs.meta
-    projectPath: Assets/Scripts/Manager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/MovementController.cs
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/MovementController.cs
-    projectPath: Assets/Scripts/MovementController.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/MovementController.cs.meta
-    fullPath: /Users/laporte/unity/1jan2023/Assets/Scripts/MovementController.cs.meta
-    projectPath: Assets/Scripts/MovementController.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Users/laporte/unity/1jan2023/Library/ArtifactDB
     projectPath: Library/ArtifactDB
@@ -154,27 +364,357 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
-    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
-    projectPath: Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
+  - path: Library/Artifacts/01/019cf6f7699a31b5fc9ba2a0f93b0c96
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/01/019cf6f7699a31b5fc9ba2a0f93b0c96
+    projectPath: Library/Artifacts/01/019cf6f7699a31b5fc9ba2a0f93b0c96
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1a/1aab09c70c27572ca492d9041ce98650
-    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/1a/1aab09c70c27572ca492d9041ce98650
-    projectPath: Library/Artifacts/1a/1aab09c70c27572ca492d9041ce98650
+  - path: Library/Artifacts/07/07361cf2c695128a70126d3ae04af095
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/07/07361cf2c695128a70126d3ae04af095
+    projectPath: Library/Artifacts/07/07361cf2c695128a70126d3ae04af095
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b5/b549da5be02ecb7aa2f78f79edc6f541
-    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/b5/b549da5be02ecb7aa2f78f79edc6f541
-    projectPath: Library/Artifacts/b5/b549da5be02ecb7aa2f78f79edc6f541
+  - path: Library/Artifacts/07/07abd8752dc67ca0213d73643c08f277
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/07/07abd8752dc67ca0213d73643c08f277
+    projectPath: Library/Artifacts/07/07abd8752dc67ca0213d73643c08f277
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e1/e197f5559f8fb9ad54246a8ccda0ef35
-    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/e1/e197f5559f8fb9ad54246a8ccda0ef35
-    projectPath: Library/Artifacts/e1/e197f5559f8fb9ad54246a8ccda0ef35
+  - path: Library/Artifacts/0a/0a2f7fb22d854448901761f453310a8c
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/0a/0a2f7fb22d854448901761f453310a8c
+    projectPath: Library/Artifacts/0a/0a2f7fb22d854448901761f453310a8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0a/0a8908a81c261854b7641d2d12ff8d35
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/0a/0a8908a81c261854b7641d2d12ff8d35
+    projectPath: Library/Artifacts/0a/0a8908a81c261854b7641d2d12ff8d35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/10/10ed29cccd682329d4162f42ed084881
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/10/10ed29cccd682329d4162f42ed084881
+    projectPath: Library/Artifacts/10/10ed29cccd682329d4162f42ed084881
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/11/11e2d1e09d9c0e0f384fcc6d33e9ede4
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/11/11e2d1e09d9c0e0f384fcc6d33e9ede4
+    projectPath: Library/Artifacts/11/11e2d1e09d9c0e0f384fcc6d33e9ede4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/15/157dfb5723b8f66bfc0861a969528c3b
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/15/157dfb5723b8f66bfc0861a969528c3b
+    projectPath: Library/Artifacts/15/157dfb5723b8f66bfc0861a969528c3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/15/15a010dc319f68ff63d288af1fae2bfb
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/15/15a010dc319f68ff63d288af1fae2bfb
+    projectPath: Library/Artifacts/15/15a010dc319f68ff63d288af1fae2bfb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/16/16eb39657d4b265f3d3f8b92d8057303
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/16/16eb39657d4b265f3d3f8b92d8057303
+    projectPath: Library/Artifacts/16/16eb39657d4b265f3d3f8b92d8057303
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/18/183339f10ff637d324c3e45de6352aa2
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/18/183339f10ff637d324c3e45de6352aa2
+    projectPath: Library/Artifacts/18/183339f10ff637d324c3e45de6352aa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1c/1cd373edc3c0c4eb6d56f696f8056446
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/1c/1cd373edc3c0c4eb6d56f696f8056446
+    projectPath: Library/Artifacts/1c/1cd373edc3c0c4eb6d56f696f8056446
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2e/2eefbe41d4874f3ed7100ba10208b2c4
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/2e/2eefbe41d4874f3ed7100ba10208b2c4
+    projectPath: Library/Artifacts/2e/2eefbe41d4874f3ed7100ba10208b2c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/31/318accef25141e1071f7fd7dea0d62f0
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/31/318accef25141e1071f7fd7dea0d62f0
+    projectPath: Library/Artifacts/31/318accef25141e1071f7fd7dea0d62f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/35/354af50b348e39ea6650cc8160cecd13
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/35/354af50b348e39ea6650cc8160cecd13
+    projectPath: Library/Artifacts/35/354af50b348e39ea6650cc8160cecd13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/35/358841a0327c6c50bfc910f7028102ee
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/35/358841a0327c6c50bfc910f7028102ee
+    projectPath: Library/Artifacts/35/358841a0327c6c50bfc910f7028102ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/53/53a6788754a963cc994f8757b68ea3c6
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/53/53a6788754a963cc994f8757b68ea3c6
+    projectPath: Library/Artifacts/53/53a6788754a963cc994f8757b68ea3c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/56/5618ac321576d43cfe85e036688e6dbb
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/56/5618ac321576d43cfe85e036688e6dbb
+    projectPath: Library/Artifacts/56/5618ac321576d43cfe85e036688e6dbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/57/5794b3eee9649a6d2254e375a46f011a
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/57/5794b3eee9649a6d2254e375a46f011a
+    projectPath: Library/Artifacts/57/5794b3eee9649a6d2254e375a46f011a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/58080e361a95ca6c34740b9ff90b917b
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/58/58080e361a95ca6c34740b9ff90b917b
+    projectPath: Library/Artifacts/58/58080e361a95ca6c34740b9ff90b917b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5b/5b26994a6d5cdd9a8ea77c9495a6621b
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/5b/5b26994a6d5cdd9a8ea77c9495a6621b
+    projectPath: Library/Artifacts/5b/5b26994a6d5cdd9a8ea77c9495a6621b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5b/5bc632d8f979dd1f1a8614f77d5f78e2
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/5b/5bc632d8f979dd1f1a8614f77d5f78e2
+    projectPath: Library/Artifacts/5b/5bc632d8f979dd1f1a8614f77d5f78e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5d/5dea85178b6bacd7beb41757b05f52fc
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/5d/5dea85178b6bacd7beb41757b05f52fc
+    projectPath: Library/Artifacts/5d/5dea85178b6bacd7beb41757b05f52fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/70/707c1ab51195f6b404bc18a634e8b0c8
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/70/707c1ab51195f6b404bc18a634e8b0c8
+    projectPath: Library/Artifacts/70/707c1ab51195f6b404bc18a634e8b0c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/72/72282ac89d1fab15e23e4be259d00204
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/72/72282ac89d1fab15e23e4be259d00204
+    projectPath: Library/Artifacts/72/72282ac89d1fab15e23e4be259d00204
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/77/77bd98099553ec70b9bfd91b6ea1c52b
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/77/77bd98099553ec70b9bfd91b6ea1c52b
+    projectPath: Library/Artifacts/77/77bd98099553ec70b9bfd91b6ea1c52b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/79/7939f6bf0eec9293c255e0e979b5a22d
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/79/7939f6bf0eec9293c255e0e979b5a22d
+    projectPath: Library/Artifacts/79/7939f6bf0eec9293c255e0e979b5a22d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/79/79b9aa0d769fc4b7076d07291dd59bd4
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/79/79b9aa0d769fc4b7076d07291dd59bd4
+    projectPath: Library/Artifacts/79/79b9aa0d769fc4b7076d07291dd59bd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7d/7da6230bf856e651bdfe14ec3195ff12
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/7d/7da6230bf856e651bdfe14ec3195ff12
+    projectPath: Library/Artifacts/7d/7da6230bf856e651bdfe14ec3195ff12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7d/7dfa01da3ef5567c6050f9e4d83756f4
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/7d/7dfa01da3ef5567c6050f9e4d83756f4
+    projectPath: Library/Artifacts/7d/7dfa01da3ef5567c6050f9e4d83756f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/84/8449d2cbe9a024dd34eba9ac5e9e48c2
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/84/8449d2cbe9a024dd34eba9ac5e9e48c2
+    projectPath: Library/Artifacts/84/8449d2cbe9a024dd34eba9ac5e9e48c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8f/8fe55583662f554df2432443dd498e7f
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/8f/8fe55583662f554df2432443dd498e7f
+    projectPath: Library/Artifacts/8f/8fe55583662f554df2432443dd498e7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/92e01fab5b62474649945ff9b33ba9ce
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/92/92e01fab5b62474649945ff9b33ba9ce
+    projectPath: Library/Artifacts/92/92e01fab5b62474649945ff9b33ba9ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9b/9b9993f083432918c5f05f2dfa703324
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/9b/9b9993f083432918c5f05f2dfa703324
+    projectPath: Library/Artifacts/9b/9b9993f083432918c5f05f2dfa703324
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a0/a05311e89b24d6a39d1a4042f233900e
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/a0/a05311e89b24d6a39d1a4042f233900e
+    projectPath: Library/Artifacts/a0/a05311e89b24d6a39d1a4042f233900e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a5/a54ea2d1e6174081c2badd2fee00a17b
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/a5/a54ea2d1e6174081c2badd2fee00a17b
+    projectPath: Library/Artifacts/a5/a54ea2d1e6174081c2badd2fee00a17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a5/a5ccfcb16265fabfac8ee58de8ed3344
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/a5/a5ccfcb16265fabfac8ee58de8ed3344
+    projectPath: Library/Artifacts/a5/a5ccfcb16265fabfac8ee58de8ed3344
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/aa/aa0148750b8c6ec8495a226f4a3e19d6
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/aa/aa0148750b8c6ec8495a226f4a3e19d6
+    projectPath: Library/Artifacts/aa/aa0148750b8c6ec8495a226f4a3e19d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ad/adddb790f52a514aa42257355c753870
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/ad/adddb790f52a514aa42257355c753870
+    projectPath: Library/Artifacts/ad/adddb790f52a514aa42257355c753870
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b8/b84d156855be26bad5a9ab8d42e96639
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/b8/b84d156855be26bad5a9ab8d42e96639
+    projectPath: Library/Artifacts/b8/b84d156855be26bad5a9ab8d42e96639
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bc/bc63957026085cf8dd56067221b2e003
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/bc/bc63957026085cf8dd56067221b2e003
+    projectPath: Library/Artifacts/bc/bc63957026085cf8dd56067221b2e003
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bc/bc7a8dd597b3decd5e154c3900b20288
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/bc/bc7a8dd597b3decd5e154c3900b20288
+    projectPath: Library/Artifacts/bc/bc7a8dd597b3decd5e154c3900b20288
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/be/be7ec44baf85a327a3db93cf97d356ce
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/be/be7ec44baf85a327a3db93cf97d356ce
+    projectPath: Library/Artifacts/be/be7ec44baf85a327a3db93cf97d356ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d6/d6038c860d3cbd2c9331045f1c5eb7d9
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/d6/d6038c860d3cbd2c9331045f1c5eb7d9
+    projectPath: Library/Artifacts/d6/d6038c860d3cbd2c9331045f1c5eb7d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d7/d70fbed9105f2447d7ffd037e4e672e0
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/d7/d70fbed9105f2447d7ffd037e4e672e0
+    projectPath: Library/Artifacts/d7/d70fbed9105f2447d7ffd037e4e672e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/db/db0e24c4c69cd333b12dfc9ba09fe4b9
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/db/db0e24c4c69cd333b12dfc9ba09fe4b9
+    projectPath: Library/Artifacts/db/db0e24c4c69cd333b12dfc9ba09fe4b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dc/dce3dfae0cded076c1a43675ce9c2b3b
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/dc/dce3dfae0cded076c1a43675ce9c2b3b
+    projectPath: Library/Artifacts/dc/dce3dfae0cded076c1a43675ce9c2b3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dd/dd18244817dd1a058f39b9a44cdd6f14
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/dd/dd18244817dd1a058f39b9a44cdd6f14
+    projectPath: Library/Artifacts/dd/dd18244817dd1a058f39b9a44cdd6f14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dd/dd8212e35213c51ef9ba5ce46b1496c2
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/dd/dd8212e35213c51ef9ba5ce46b1496c2
+    projectPath: Library/Artifacts/dd/dd8212e35213c51ef9ba5ce46b1496c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/de/deb527030913388ebdf309d3c79b763a
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/de/deb527030913388ebdf309d3c79b763a
+    projectPath: Library/Artifacts/de/deb527030913388ebdf309d3c79b763a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e1/e17e731a1c0974e46aad94a670ac5751
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/e1/e17e731a1c0974e46aad94a670ac5751
+    projectPath: Library/Artifacts/e1/e17e731a1c0974e46aad94a670ac5751
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e4/e43123365b74b889978b8f13e7cdb91f
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/e4/e43123365b74b889978b8f13e7cdb91f
+    projectPath: Library/Artifacts/e4/e43123365b74b889978b8f13e7cdb91f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e4/e48249eee1d95afaa823a688a092b71c
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/e4/e48249eee1d95afaa823a688a092b71c
+    projectPath: Library/Artifacts/e4/e48249eee1d95afaa823a688a092b71c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ee/eee53b1750373abf529756c6499abe23
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/ee/eee53b1750373abf529756c6499abe23
+    projectPath: Library/Artifacts/ee/eee53b1750373abf529756c6499abe23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f00804331a5a73b3569b862ee0a87e1c
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/f0/f00804331a5a73b3569b862ee0a87e1c
+    projectPath: Library/Artifacts/f0/f00804331a5a73b3569b862ee0a87e1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f01ab83b67c217a9231365b08503b18e
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/f0/f01ab83b67c217a9231365b08503b18e
+    projectPath: Library/Artifacts/f0/f01ab83b67c217a9231365b08503b18e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f0a30fbe4ff5c8eb919d7e42acfb5165
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/f0/f0a30fbe4ff5c8eb919d7e42acfb5165
+    projectPath: Library/Artifacts/f0/f0a30fbe4ff5c8eb919d7e42acfb5165
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f3/f35c366e8702d4ae4d7b97f83a603005
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/f3/f35c366e8702d4ae4d7b97f83a603005
+    projectPath: Library/Artifacts/f3/f35c366e8702d4ae4d7b97f83a603005
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fc/fc35f41e58f87461e0bd728e9209c010
+    fullPath: /Users/laporte/unity/1jan2023/Library/Artifacts/fc/fc35f41e58f87461e0bd728e9209c010
+    projectPath: Library/Artifacts/fc/fc35f41e58f87461e0bd728e9209c010
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -226,6 +766,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll
+    fullPath: /Users/laporte/unity/1jan2023/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll
+    projectPath: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.pdb
+    fullPath: /Users/laporte/unity/1jan2023/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.pdb
+    projectPath: Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/Bee/backend_profiler0.traceevents
     fullPath: /Users/laporte/unity/1jan2023/Library/Bee/backend_profiler0.traceevents
     projectPath: Library/Bee/backend_profiler0.traceevents
@@ -256,6 +808,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/Bee/tundra.log.json
+    fullPath: /Users/laporte/unity/1jan2023/Library/Bee/tundra.log.json
+    projectPath: Library/Bee/tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/Bee/TundraBuildState.state
     fullPath: /Users/laporte/unity/1jan2023/Library/Bee/TundraBuildState.state
     projectPath: Library/Bee/TundraBuildState.state
@@ -271,6 +829,18 @@ MonoBehaviour:
   - path: Library/EditorInstance.json
     fullPath: /Users/laporte/unity/1jan2023/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/expandedItems
+    fullPath: /Users/laporte/unity/1jan2023/Library/expandedItems
+    projectPath: Library/expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/laporte/unity/1jan2023/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -292,6 +862,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/laporte/unity/1jan2023/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SceneVisibilityState.asset
     fullPath: /Users/laporte/unity/1jan2023/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
@@ -310,9 +886,147 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    fullPath: /Users/laporte/unity/1jan2023/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+    fullPath: /Users/laporte/unity/1jan2023/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/Search/transactions.db
     fullPath: /Users/laporte/unity/1jan2023/Library/Search/transactions.db
     projectPath: Library/Search/transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/05a9fc704378d9d67093b994adce90b8.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/05a9fc704378d9d67093b994adce90b8.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/05a9fc704378d9d67093b994adce90b8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/09ad862536b5f52f956e0171fab12456.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/09ad862536b5f52f956e0171fab12456.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/09ad862536b5f52f956e0171fab12456.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/0b58d8cf1ffbdff63674cf1b6a5b280c.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/0b58d8cf1ffbdff63674cf1b6a5b280c.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/0b58d8cf1ffbdff63674cf1b6a5b280c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/143b46bd5a0d68bf263ce26d33d2601d.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/143b46bd5a0d68bf263ce26d33d2601d.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/143b46bd5a0d68bf263ce26d33d2601d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/1732a8cca970ebe872a7aa371975d6db.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/1732a8cca970ebe872a7aa371975d6db.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/1732a8cca970ebe872a7aa371975d6db.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/2eeb089c6d8c6c91364212fe41c5a513.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/2eeb089c6d8c6c91364212fe41c5a513.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/2eeb089c6d8c6c91364212fe41c5a513.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/3068c6025ccad2640e142f6b32bfc3e3.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/3068c6025ccad2640e142f6b32bfc3e3.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/3068c6025ccad2640e142f6b32bfc3e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/426ac6f93385c1243febd2746d1ad066.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/426ac6f93385c1243febd2746d1ad066.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/426ac6f93385c1243febd2746d1ad066.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/4a7c216f04ad99405a00e53a97be2242.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/4a7c216f04ad99405a00e53a97be2242.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/4a7c216f04ad99405a00e53a97be2242.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/5066dc2fc7add30e43cbcd60f821359c.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/5066dc2fc7add30e43cbcd60f821359c.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/5066dc2fc7add30e43cbcd60f821359c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/5e3f50c8ba275bdac2c895e6b0a2d287.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/5e3f50c8ba275bdac2c895e6b0a2d287.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/5e3f50c8ba275bdac2c895e6b0a2d287.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/620547411b84aea78af9328a0c1e48b1.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/620547411b84aea78af9328a0c1e48b1.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/620547411b84aea78af9328a0c1e48b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/6dd178957684f72126630ee1538d6b79.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/6dd178957684f72126630ee1538d6b79.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/6dd178957684f72126630ee1538d6b79.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/8298351c68cec023c1c27ac5480b76a7.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/8298351c68cec023c1c27ac5480b76a7.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/8298351c68cec023c1c27ac5480b76a7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/9b869ff74af82a74ba32243ad5026329.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/9b869ff74af82a74ba32243ad5026329.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/9b869ff74af82a74ba32243ad5026329.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/a7a88888a6cad2bac1dea7547f6f834f.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/a7a88888a6cad2bac1dea7547f6f834f.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/a7a88888a6cad2bac1dea7547f6f834f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/abd429f55971be6ba444f82a5d3561b9.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/abd429f55971be6ba444f82a5d3561b9.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/abd429f55971be6ba444f82a5d3561b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/adbd91a11e302cf1b3a96565ac9595eb.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/adbd91a11e302cf1b3a96565ac9595eb.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/adbd91a11e302cf1b3a96565ac9595eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/e833f08999a92e18372574aba2b20771.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/e833f08999a92e18372574aba2b20771.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/e833f08999a92e18372574aba2b20771.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/builtin/unity_builtin_extra0000/00/f98fcf97c60cb31d12ab585f7e483700.bin
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/builtin/unity_builtin_extra0000/00/f98fcf97c60cb31d12ab585f7e483700.bin
+    projectPath: Library/ShaderCache/builtin/unity_builtin_extra0000/00/f98fcf97c60cb31d12ab585f7e483700.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/laporte/unity/1jan2023/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -334,75 +1048,93 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/laporte/unity/1jan2023/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs/AssetImportWorker0.log
     fullPath: /Users/laporte/unity/1jan2023/Logs/AssetImportWorker0.log
     projectPath: Logs/AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/AssetImportWorker0-prev.log
     fullPath: /Users/laporte/unity/1jan2023/Logs/AssetImportWorker0-prev.log
     projectPath: Logs/AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/AssetImportWorker1.log
     fullPath: /Users/laporte/unity/1jan2023/Logs/AssetImportWorker1.log
     projectPath: Logs/AssetImportWorker1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/AssetImportWorker1-prev.log
     fullPath: /Users/laporte/unity/1jan2023/Logs/AssetImportWorker1-prev.log
     projectPath: Logs/AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/shadercompiler-AssetImportWorker0.log
-    fullPath: /Users/laporte/unity/1jan2023/Logs/shadercompiler-AssetImportWorker0.log
-    projectPath: Logs/shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: obj/Debug/Unity.Services.Core.Environments.csproj.AssemblyReference.cache
-    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.Services.Core.Environments.csproj.AssemblyReference.cache
-    projectPath: obj/Debug/Unity.Services.Core.Environments.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj/Debug/Unity.Services.Core.Telemetry.csproj.AssemblyReference.cache
-    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.Services.Core.Telemetry.csproj.AssemblyReference.cache
-    projectPath: obj/Debug/Unity.Services.Core.Telemetry.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj/Debug/Unity.VisualScripting.Core.csproj.AssemblyReference.cache
-    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.VisualScripting.Core.csproj.AssemblyReference.cache
-    projectPath: obj/Debug/Unity.VisualScripting.Core.csproj.AssemblyReference.cache
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj/Debug/Cinemachine.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Cinemachine.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Cinemachine.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: obj/Debug/Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
-    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
-    projectPath: obj/Debug/Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
+  - path: obj/Debug/Unity.InputSystem.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.InputSystem.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.InputSystem.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: obj/Debug/Unity.VisualScripting.State.Player.csproj.AssemblyReference.cache
-    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.VisualScripting.State.Player.csproj.AssemblyReference.cache
-    projectPath: obj/Debug/Unity.VisualScripting.State.Player.csproj.AssemblyReference.cache
+  - path: obj/Debug/Unity.Services.Core.Configuration.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.Services.Core.Configuration.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.Services.Core.Configuration.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj/Debug/Unity.Services.Core.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.Services.Core.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.Services.Core.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj/Debug/Unity.Services.Core.Telemetry.Player.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.Services.Core.Telemetry.Player.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.Services.Core.Telemetry.Player.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj/Debug/UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
-    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
-    projectPath: obj/Debug/UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
+  - path: obj/Debug/Unity.TextMeshPro.Player.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.TextMeshPro.Player.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.TextMeshPro.Player.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings/InputManager.asset
-    fullPath: /Users/laporte/unity/1jan2023/ProjectSettings/InputManager.asset
-    projectPath: ProjectSettings/InputManager.asset
+  - path: obj/Debug/Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache
+    fullPath: /Users/laporte/unity/1jan2023/obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -412,30 +1144,48 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/FSTimeGet-06aa5e7578a3540ba8b74b11b415e354
-    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-06aa5e7578a3540ba8b74b11b415e354
-    projectPath: Temp/FSTimeGet-06aa5e7578a3540ba8b74b11b415e354
+  - path: Temp/FSTimeGet-20a2b4c57d9c949e593ab58fe6fcda5c
+    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-20a2b4c57d9c949e593ab58fe6fcda5c
+    projectPath: Temp/FSTimeGet-20a2b4c57d9c949e593ab58fe6fcda5c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Temp/FSTimeGet-0a89991cde7be40508379d58bdcbcf0e
-    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-0a89991cde7be40508379d58bdcbcf0e
-    projectPath: Temp/FSTimeGet-0a89991cde7be40508379d58bdcbcf0e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/FSTimeGet-458d6ac8b7f294a3e9509e3073d8a65b
-    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-458d6ac8b7f294a3e9509e3073d8a65b
-    projectPath: Temp/FSTimeGet-458d6ac8b7f294a3e9509e3073d8a65b
+  - path: Temp/FSTimeGet-2b850a4653de44abf9d96df2cad429a6
+    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-2b850a4653de44abf9d96df2cad429a6
+    projectPath: Temp/FSTimeGet-2b850a4653de44abf9d96df2cad429a6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/FSTimeGet-7a53bce7cd8634069a0c46b929df6e1b
-    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-7a53bce7cd8634069a0c46b929df6e1b
-    projectPath: Temp/FSTimeGet-7a53bce7cd8634069a0c46b929df6e1b
+  - path: Temp/FSTimeGet-5c2908b3bbd1f4fdf97a2ef81ab9ca26
+    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-5c2908b3bbd1f4fdf97a2ef81ab9ca26
+    projectPath: Temp/FSTimeGet-5c2908b3bbd1f4fdf97a2ef81ab9ca26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/FSTimeGet-8796dc391349d4710865fa20427f31aa
+    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-8796dc391349d4710865fa20427f31aa
+    projectPath: Temp/FSTimeGet-8796dc391349d4710865fa20427f31aa
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Temp/FSTimeGet-aed38ad02e28b45dcb16f4baef7a0df8
+    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-aed38ad02e28b45dcb16f4baef7a0df8
+    projectPath: Temp/FSTimeGet-aed38ad02e28b45dcb16f4baef7a0df8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/FSTimeGet-b1dc1c684d9c24a21b67584769f188c1
+    fullPath: /Users/laporte/unity/1jan2023/Temp/FSTimeGet-b1dc1c684d9c24a21b67584769f188c1
+    projectPath: Temp/FSTimeGet-b1dc1c684d9c24a21b67584769f188c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UserSettings/EditorUserSettings.asset
+    fullPath: /Users/laporte/unity/1jan2023/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UserSettings/Layouts/default-2021.dwlt
     fullPath: /Users/laporte/unity/1jan2023/UserSettings/Layouts/default-2021.dwlt
     projectPath: UserSettings/Layouts/default-2021.dwlt

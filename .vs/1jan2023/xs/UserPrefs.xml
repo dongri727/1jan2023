@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{17CAC5DA-C8F8-C195-8214-325C2A6C8637}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GetObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Manager.cs">
     <Files>
-      <File FileName="Assets/Scripts/GetObject.cs" Line="24" Column="2" />
-      <File FileName="Assets/Scripts/Manager.cs" />
+      <File FileName="Assets/Scripts/Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GetObject.cs" />
+      <File FileName="Assets/Scripts/PopUp.cs" />
+      <File FileName="Assets/Scripts/EnFace.cs" />
+      <File FileName="Assets/Scripts/FPSController.cs" />
+      <File FileName="Assets/Scripts/MovementController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +14,7 @@
           <Node name="1jan2023" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="GetObject.cs" selected="True" />
+                <Node name="Manager.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -20,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0076a82d-27b3-41c9-b62a-ec23cb71cf4d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8a7efc9-1ccf-4f1b-8ee3-d6fea2793096" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

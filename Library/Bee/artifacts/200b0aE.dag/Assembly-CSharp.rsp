@@ -360,6 +360,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Planet Earth Free/SpinFree.cs"
 "Assets/Scripts/EnFace.cs"
 "Assets/Scripts/FPSController.cs"
 "Assets/Scripts/GetObject.cs"
